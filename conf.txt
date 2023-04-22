@@ -1,0 +1,5 @@
+home;C:/Users/sakari.ekqvist/
+syscon;C:/Users/sakari.ekqvist/source/SysCon/
+ets;C:/Users/sakari.ekqvist/source/ets/
+side;C:/Users/sakari.ekqvist/source/side/
+
